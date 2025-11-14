@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"id": "latex-formula-support",
+	"name": "LaTeX Formula Support",
+	"version": "0.0.1",
+	"minAppVersion": "1.6.0",
+	"description": "Render LaTeX formulas in edit mode with KaTeX. Supports \\( ... \\) and \\[ ... \\] syntax with live preview.",
+	"author": "YumeAyai",
+	"authorUrl": "https://github.com/YumeAyai/obsidian-picbeduploader",
+	"fundingUrl": "https://www.buymeacoffee.com/yumeayai",
 	"isDesktopOnly": false
 }
